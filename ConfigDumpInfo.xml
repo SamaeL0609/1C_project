@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
+	<ConfigVersions>
+		<Metadata name="Configuration.Конфигурация" id="b87dfc00-3c57-4afb-9974-85c2a30a1bd0" configVersion="c8c1b23dc29eea4799e489a0d653073300000000"/>
+		<Metadata name="DataProcessor.КонтрольДокументов_Блокчейн" id="28a82fff-a1f3-4610-90df-2dc5b6706f6d" configVersion="8135ec68966eb244b46e6a2cdcf31c4200000000"/>
+		<Metadata name="DataProcessor.КонтрольДокументов_Блокчейн.Form.Форма" id="f06d7333-2c06-4fb3-98a2-162db54f5a8b" configVersion="9d275d16c594ea469efcd1ca6c532c6600000000"/>
+		<Metadata name="DataProcessor.КонтрольДокументов_Блокчейн.Form.Форма.Form" id="f06d7333-2c06-4fb3-98a2-162db54f5a8b.0" configVersion="93cb5fdb292b0440877a4283b76deb2200000000"/>
+		<Metadata name="DataProcessor.КонтрольДокументов_Блокчейн.Form.ФормаШифрования" id="f8d900f9-6d8d-46a3-b89d-19cb3a462a76" configVersion="58df133d29841445ad4816b06b9839c200000000"/>
+		<Metadata name="DataProcessor.КонтрольДокументов_Блокчейн.Form.ФормаШифрования.Form" id="f8d900f9-6d8d-46a3-b89d-19cb3a462a76.0" configVersion="71deaa5a032ae946b5d5951a5390631b00000000"/>
+		<Metadata name="DataProcessor.КонтрольДокументов_Блокчейн.ObjectModule" id="28a82fff-a1f3-4610-90df-2dc5b6706f6d.0" configVersion="6b9fb2dff1f4024ea231ed36b7ad1b0d00000000"/>
+		<Metadata name="Language.Русский" id="b063d30f-5391-48d4-9184-7b0cff0d26c8" configVersion="06410aa717fd5b4fbfb849577d09688400000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
